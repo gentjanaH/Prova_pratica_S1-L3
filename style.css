@@ -1,0 +1,72 @@
+#logo {
+    text-align: center;
+}
+
+#striscia {
+    border: none;
+    height: 2px;
+    background-color: #e28a62;
+    margin: 20px 0;
+
+}
+
+#upper-line {
+    background: linear-gradient(120deg, #eab9a2, #e3c3b4)
+}
+
+#upper-line p {
+    text-align: center;
+    padding-bottom: 1em;
+}
+
+main {
+    padding-left: 15%;
+    padding-right: 15%;
+    text-align: justify;
+}
+
+.main-line {
+    border: none;
+    height: 1px;
+    background-color: lightblue;
+    margin: 20px 0;
+}
+
+
+footer {
+    padding-left: 15%;
+    padding-right: 15%;
+    text-align: justify;
+}
+
+footer a {
+    color: rgb(50, 144, 130);
+}
+
+
+h1 {
+    text-align: center;
+}
+
+figure {
+    size: 700px;
+    text-align: center;
+    color: lightgrey;
+}
+
+nav {
+    border-left: groove 2px #f18451;
+
+}
+
+nav p {
+    font-size: medium;
+    font-weight: bolder;
+    color: #f18451;
+    padding: 10px;
+
+}
+
+nav a {
+    color: rgb(50, 144, 130);
+}
